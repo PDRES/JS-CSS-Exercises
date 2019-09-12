@@ -1,0 +1,21 @@
+       
+            /*este estilo afecta a los parrafos (p) */
+            p{
+                
+                font-size: 200%;
+                color: aquamarine
+                
+            }
+            #parraf1 {
+                    color:blue;
+            }
+            .nueva{
+                color:yellowgreen; 
+            }
+            .ya {
+                font-size:400%
+            }
+            .nueva.otraclase{
+                text-decoration: underline;
+            }
+        
